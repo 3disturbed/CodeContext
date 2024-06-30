@@ -1,4 +1,5 @@
-# CodeContext![codeContext](https://github.com/3disturbed/CodeContext/assets/9502162/c7d70e4a-c7bd-45aa-b496-4b022f892597)
+# CodeContext
+![codeContext](https://github.com/3disturbed/CodeContext/assets/9502162/c7d70e4a-c7bd-45aa-b496-4b022f892597)
 
 Overview
 
