@@ -1,4 +1,5 @@
-# CodeContext
+# CodeContext![codeContext](https://github.com/3disturbed/CodeContext/assets/9502162/c7d70e4a-c7bd-45aa-b496-4b022f892597)
+
 Overview
 
 CodeContext is a shell-friendly console application designed to facilitate the breakdown of large JavaScript projects (including HTML and CSS files) into manageable context windows. This tool enables AI agents to effectively understand, analyze, and develop complex projects under the supervision of a skilled developer. By leveraging AI, CodeContext ensures efficient project management, detailed code inspection, and collaborative development in remote environments accessed via SSH.
